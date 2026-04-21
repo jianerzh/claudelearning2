@@ -1,0 +1,36 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - heading "Component Style Preview" [level=1] [ref=e3]
+    - generic [ref=e5]:
+      - generic [ref=e6]: A
+      - heading "Alex Rivera" [level=2] [ref=e7]
+      - paragraph [ref=e8]: Product Designer
+      - paragraph [ref=e9]: Crafting digital experiences that feel human.
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - generic [ref=e12]: 2,400
+          - generic [ref=e13]: Followers
+        - generic [ref=e14]:
+          - generic [ref=e15]: "180"
+          - generic [ref=e16]: Following
+        - generic [ref=e17]:
+          - generic [ref=e18]: "42"
+          - generic [ref=e19]: Works
+      - button "Follow" [ref=e20]
+    - generic [ref=e21]:
+      - generic [ref=e22]: Counter
+      - generic [ref=e23]: "42"
+      - generic [ref=e24]:
+        - button "−" [ref=e25]
+        - button "reset" [ref=e26]
+        - button "+" [ref=e27]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - heading "Get in touch" [level=2] [ref=e30]
+        - paragraph [ref=e31]: We'll get back to you within 24 hours.
+      - generic [ref=e32]:
+        - textbox "Your name" [ref=e33]
+        - textbox "Email address" [ref=e34]
+        - textbox "Your message..." [ref=e35]
+        - button "Send message →" [ref=e36]
+  - alert [ref=e37]

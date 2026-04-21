@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright",
+      "Bash(git restore *)",
+      "Bash(git commit -m ' *)",
+      "Bash(npm audit *)",
+      "Bash(npm ls *)",
+      "Bash(node *)",
+      "Bash(npm view *)",
+      "Bash(npx tsc *)"
+    ]
+  }
+}
